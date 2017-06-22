@@ -1,0 +1,179 @@
+body{
+	font-size:12px;
+	font-family:'宋体';
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+a:hover{
+    color: #ff3399;
+}
+.header{
+	width: 1000px;
+	height: 300px;
+}
+#daohang{
+	height: 50px;
+	width: 1525px;
+	background-image: url(../images/bg2.jpg);
+	position: relative;
+	top: -49px;
+	opacity: 0.8;
+}
+.wenzi1{
+	position: relative;
+	left: 250px;
+	font-size: 18px;
+	line-height: 3em;
+}   
+.height{
+    position: relative;
+    left: 650px;
+    top: -48px;
+}
+.input1{
+    width: 200px;
+	height: 25px;
+	position: relative;
+	top: -65px;
+    left:840px;
+}
+.button{
+	width: 50px;
+	height:28px;
+	position: relative;
+	left: 834px;
+    top: -63px;
+	background-color: #3399ff;
+	border: 1px solid #f8f5ee;
+	color: #fff;
+}
+.little{
+	position: relative;
+	width: 1550px;
+    background-image: url(../images/daolan.png);
+    background-repeat: no-repeat;
+}
+.kuai1{
+	width: 1525px;
+	position: relative;
+	left: 220px;
+}
+.now{
+	font-size: 16px;
+	position: relative;
+	top: -19px;
+	left: 25px;
+}
+.frist { 
+    font-size: 16px; 
+	color: #000;
+	position: relative;
+	top: -27px;
+	left: 15px;
+}
+.wenzi_1{
+	color: #fff;
+	position: relative;
+	left: 530px;
+	top: -60px;
+}
+.up{
+	position: relative;
+	left: 245px;
+}
+.left{
+	float: left;
+	width: 100px;
+	height: 700px;
+	position: relative;
+	left: 250px;
+	top: 50px;
+}
+.right{
+	float: left;
+	position: relative;
+	left: 900px;
+	top: -60px;
+}
+.wenzi_3{
+	position: relative;
+	left: 35px;
+}
+.tuijian{
+	line-height: 20px;
+	list-style-type: none;
+}
+.photo:hover{
+	opacity: 0.5;
+}
+.wenzi_2{
+	font-size: 20x;
+	color: black;
+	position: relative;
+	left: 10px;
+    top: -30px;
+}
+.wenzi_4{
+	display: block;
+	font-size: 22px;
+	color: black;
+    position: relative;
+    left: 75px;
+    top: -40px;
+}
+.comment{
+	position: relative;
+	top: 500px;
+	left: -280px;
+}
+.text{
+	border-color: #e5e9ef;
+	background-color: #e5e9ef;
+	position: relative;
+	top: -40px;
+	left: -10px;
+}
+.avatar{
+	position: relative;
+	top: -50px;
+	left: -10px;
+}
+.face{
+	position: relative;
+	top:-35px;
+	left: -10px;
+}
+.com{
+	display: block;
+	position: relative;
+	left: 
+	top:50px;
+}
+.ment{
+	position: relative;
+	left: 70px;
+	top:-100px;
+}
+.footer{
+	display: block;
+	height: 120px;
+	width: 1525px;
+	position: relative;
+	top: 450px;
+	background-image: url(../images/footer.jpg);
+}
+.foot{
+	position: relative;
+	left: 500px;
+	top: 20px;
+}
+.wenzi2{
+	font-size: 18px;
+	line-height: 3em;
+}
+p{
+    position: relative;
+    left:70px; 
+}

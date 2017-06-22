@@ -1,0 +1,245 @@
+body{
+	font-size:12px;
+	font-family:'宋体';
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+a:hover{
+	color: #ff3399;
+	text-decoration: underline;
+}
+.header{
+	width: 1000px;
+	height: 300px;
+}
+#daohang{
+	height: 50px;
+	width: 1525px;
+	background-image: url(../images/bg2.jpg);
+	position: relative;
+	top: -49px;
+	opacity: 0.8;
+}
+.wenzi1{
+	position: relative;
+	left: 250px;
+	font-size: 18px;
+	line-height: 3em;
+}
+.height{
+    position: relative;
+    left: 650px;
+    top: -48px;
+}
+.input1{
+    width: 200px;
+	height: 25px;
+	position: relative;
+	top: -65px;
+    left:840px;
+}
+.button{
+	width: 50px;
+	height:28px;
+	position: relative;
+	left: 834px;
+    top: -63px;
+	background-color: #3399ff;
+	border: 1px solid #f8f5ee;
+	color: #fff;
+}
+.frist{
+    float: left;
+    width: 360px;
+    position: relative;
+    left: 250px;
+}
+.move_3{
+	position: relative;
+}
+.hot{
+	color: #330000;
+	position: relative;
+	top: 50px;
+}
+.time{
+	position: relative;
+	left: 10px;
+}
+.list{
+	color: #330000;
+	font-size: 16px;
+    position: relative;
+    top: -50px;
+    left: -25px;
+    line-height: 30px;
+}
+.color{
+	color:#330000;
+}
+.up{
+	height: 220px;
+	width: 335px;
+	position: relative;
+	top: -35px;
+}
+.qq{
+    height: 220px;
+	width: 335px;
+}
+.wenzi_1{
+    font-size: 20px;
+    border-bottom: 1px #330000 solid;
+    width: 20px;
+    color: #330000;
+    position: relative;
+    left: 60px;
+    top:-200px;
+}
+.button4{
+	position: relative;
+	top: -230px;
+	left: -10px;
+}
+.button1{
+	height: 30px;
+	width: 200px;
+	position: relative;
+	left: 20px;
+	top: 25px;
+}
+.button2{
+	height: 30px;
+	width: 200px;
+	position: relative;
+	top: 30px;
+	left: 20px;
+}
+.button3{
+	height: 35px;
+	width: 250px;
+	position: relative;
+	top: 50px;
+	left: 60px;
+	background-color: #3399ff;
+	border: 1px solid #f8f5ee;
+	color: #fff;
+}
+.wenzi_2{
+	font-size: 16px;
+	position: relative;
+	color: #330000;
+	top:20px;
+	left: 10px;
+}
+.wenzi_3{
+	color: #330000;
+	font-size: 16px;
+	position: relative;
+	top: 30px;
+	left: 10px;
+}
+.left{
+	width: 230px;
+	position: relative;
+	left: 250px;
+	float: left;
+}
+.news{
+    position: relative;
+    top: 50px;
+	height: 145px;
+}
+.xinfan{
+	position: relative;
+	top: -100px;
+}
+.xin_fan img:hover{
+	opacity: 0.5;
+}
+.gif1{
+	position: relative;
+	top: -50px;
+}
+h1{
+	color: #000;
+	position: relative;
+	left: 85px;
+	top: -100px;
+}
+.wenzi3{
+	font-size: 16px;
+	color: black;
+	position: relative;
+	top: -100px;
+	left: 20px;
+}
+.now{
+    margin-top: 40px;
+	position: relative;
+    top: 100px;
+	height: 145px;
+}
+.zhibo{
+	position: relative;
+	top: -105px;
+}
+.zhi_bo img:hover{
+	opacity: 0.5;
+}
+.right{
+	width: 300px;
+	position: relative;
+	top: 5px;
+	float: left;
+	left: 270px;
+}
+.move{
+	height: 380px;
+	position: relative;
+    top: -60px;
+    left: 25px;
+}
+.move_bg img:hover{
+	opacity: 0.5;
+}
+.title{
+    position: relative;
+    top: 45px;
+    left: 30px;
+    color: #330000;
+}
+.gif2{
+	position: relative;
+    left: 20px;
+}
+.wenzi4{
+	color: #330000;
+	font-size: 16px;
+    position: relative;
+    top: -55px;
+    left: 40px;
+}
+.footer{
+	height: 120px;
+	width: 1525px;
+	position: relative;
+	top: 500px;
+	background-image: url(../images/footer.jpg);
+}
+.foot{
+	position: relative;
+	left: -350px;
+	top: 20px;
+}
+.wenzi2{
+	font-size: 18px;
+	line-height: 3em;
+}
+p{
+    position: relative;
+    left:50px; 
+    top: -10px;
+}

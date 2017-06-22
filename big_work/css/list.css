@@ -1,0 +1,159 @@
+body{
+	font-size:12px;
+	font-family:'宋体';
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+a:hover{
+    color: #ff3399;
+}
+.header{
+	width: 1000px;
+	height: 300px;
+}
+#daohang{
+	height: 50px;
+	width: 1525px;
+	background-image: url(../images/bg2.jpg);
+	position: relative;
+	top: -49px;
+	opacity: 0.8;
+}
+.wenzi1{
+	position: relative;
+	left: 250px;
+	font-size: 18px;
+	line-height: 3em;
+}   
+.height{
+    position: relative;
+    left: 650px;
+    top: -48px;
+}
+.input1{
+    width: 200px;
+	height: 25px;
+	position: relative;
+	top: -65px;
+    left:840px;
+}
+.button{
+	width: 50px;
+	height:28px;
+	position: relative;
+	left: 834px;
+    top: -63px;
+	background-color: #3399ff;
+	border: 1px solid #f8f5ee;
+	color: #fff;
+}
+.frist{
+	position: relative;
+	float: left;
+}
+.toto{
+	position: relative;
+	left: 250px;
+}
+.item {
+	position: relative;
+	left: 250px;
+	width: 80px;
+	height: 50px;
+    border: 1px black solid;
+}
+.wenzi_1{
+    position: relative;
+    left: 20px;
+    top: 15px;
+	font-size: 20px;
+	color: #000;
+}
+.center{
+	position: relative;
+	left: 280px;
+	top: -40px;
+	float: left;
+}
+.wenzi_2{
+    position: relative;
+
+}
+.left{
+	width: 350px;
+	float: left;
+	position: relative;
+	left: 265px;
+}
+.wenzi_5{
+	position: relative;
+	left: 20px;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+.l{
+	list-style-type: none;
+	line-height: 40px;
+	list-style-image: url(../images/d.png);
+}
+.wenzi_3{
+	font-size: 18px;
+	color: black;
+}
+.time{
+	position: relative;
+	left: 20px;
+	font-size: 18px;
+}
+.wenzi_4{
+	font-size: 18px;
+	color: black;
+}
+.x{
+	position: relative;
+	top: -10px;
+	list-style-type: none;
+	line-height: 40px;
+	list-style-image: url(../images/d.png);
+}
+.wenzi_6{
+	position: relative;
+	left: 20px;
+	top: -10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.yema{
+    position: relative;
+    top: 720px;
+    left: -550px;
+}
+.charater{
+	border: 1px black solid;
+	font-size: 18px;
+	color: black;
+}
+.footer{
+	display: block;
+	height: 120px;
+	width: 1525px;
+	position: relative;
+	top: 750px;
+	background-image: url(../images/footer.jpg);
+}
+.foot{
+	position: relative;
+	left: -310px;
+	top: 20px;
+}
+.wenzi2{
+	font-size: 18px;
+	line-height: 3em;
+}
+p{
+    position: relative;
+    left:70px; 
+}
